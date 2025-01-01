@@ -1,0 +1,8 @@
+{
+  "API": {
+    "token": "YOUR_TOKEN_HERE",
+    "youtubeApiKey": "YOUR_API_KEY_HERE",
+    "channelId": "YOUR_YOUTUBE_CHANNEL_ID_HERE",
+    "discordChannelId": "YOUR_DISCORD_CHANNEL_ID_HERE"
+  }
+}

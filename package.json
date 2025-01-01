@@ -1,0 +1,21 @@
+{
+  "name": "raven",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "spestedev",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/rest": "^2.3.0",
+    "@discordjs/voice": "^0.17.0",
+    "axios": "^1.7.9",
+    "discord.js": "^14.15.3",
+    "resthaven": "^0.0.3"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
